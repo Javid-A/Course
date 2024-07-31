@@ -31,31 +31,35 @@
             //} 
             //while (name.Length<-1);//muddetce
 
-            int num = 2;
+            int num = 5;
 
 
             //if (num == 5)
             //{
+            //    Console.WriteLine("First");
             //    num += 1;
             //    //process
             //}
 
-            //if (num==6)
+            //if (num == 6)
             //{
+            //    Console.WriteLine("Second");
             //    //process
             //}
 
             //if (num == 5)
             //{
+            //    Console.WriteLine("First");
             //    num += 1;
             //    //process
             //}
             //else if (num == 6)
             //{
+            //    Console.WriteLine("Second");
             //    //process
             //}
             //Console.WriteLine(num);
-            ////---
+            //---
 
             //if (num == 5)
             //{
@@ -81,24 +85,24 @@
             //    //process
             //}
             //Console.WriteLine(num);
-            
-            switch (num)
-            {
-                case 1:// if (benzetme)
-                    //process
-                    break;
-                case 2://else if
 
-                    //process
-                    break;
-                case 3://3 ve 4 eyni else if-dir
-                case 4:
-                    //process
-                    break;
-                default://else
-                    //process
-                    break;
-            }
+            //switch (num)
+            //{
+            //    case 1:// if (benzetme)
+            //        //process
+            //        break;
+            //    case 2://else if
+
+            //        //process
+            //        break;
+            //    case 3://3 ve 4 eyni else if-dir
+            //    case 4:
+            //        //process
+            //        break;
+            //    default://else
+            //        //process
+            //        break;
+            //}
         }
     }
 }
