@@ -7,7 +7,8 @@
             WriteToConsole("Javid");
             //var value = ReturnNumber(30);
             Console.WriteLine(ReturnNumber(20));
-            Console.WriteLine(ReturnWord(middleName:"Middle",name:"Name"));
+            Console.WriteLine(ReturnWord(middleName: "Middle", name: "Name"));
+            ReturnWord("Hello");
         }
 
 
@@ -23,11 +24,16 @@
             return num;
         }
 
-        public static string ReturnWord(string name,string middleName, string surname = null!)
+        public static string ReturnWord(string name, string middleName, string surname = null!)
         {
             //return name + " " + surname; tovsiye etmirem
             //return $"{name} {surname}";
-            return string.Concat(name," ",middleName," ",surname);
+            return string.Concat(name, " ", middleName, " ", surname);
+        }
+        public static string ReturnWord(string word)
+        {
+            Console.WriteLine(word[0] + "" + word[1]);
+            return "";
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Course\Course\bin\Debug\net8.0\Loops and conditions.exe
+C:\Users\Lenovo\source\repos\Course\Course\bin\Debug\net8.0\Loops and conditions.deps.json
+C:\Users\Lenovo\source\repos\Course\Course\bin\Debug\net8.0\Loops and conditions.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Course\Course\bin\Debug\net8.0\Loops and conditions.dll
+C:\Users\Lenovo\source\repos\Course\Course\bin\Debug\net8.0\Loops and conditions.pdb
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.sourcelink.json
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.dll
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\refint\Loops and conditions.dll
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.pdb
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\Loops and conditions.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Course\Course\obj\Debug\net8.0\ref\Loops and conditions.dll

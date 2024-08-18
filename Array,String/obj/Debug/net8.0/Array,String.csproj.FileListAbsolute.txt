@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Course\Array,String\bin\Debug\net8.0\Array,String.exe
+C:\Users\Lenovo\source\repos\Course\Array,String\bin\Debug\net8.0\Array,String.deps.json
+C:\Users\Lenovo\source\repos\Course\Array,String\bin\Debug\net8.0\Array,String.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Course\Array,String\bin\Debug\net8.0\Array,String.dll
+C:\Users\Lenovo\source\repos\Course\Array,String\bin\Debug\net8.0\Array,String.pdb
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.sourcelink.json
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.dll
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\refint\Array,String.dll
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.pdb
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\Array,String.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Course\Array,String\obj\Debug\net8.0\ref\Array,String.dll
