@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops and conditions", "Cou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method, Class", "Method, Class\Method, Class.csproj", "{4423B226-71DC-4912-A528-C01E18FC0509}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access modifiers", "Access modifiers\Access modifiers.csproj", "{59DB7C1A-B959-4A06-9134-5FFD5885895D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4423B226-71DC-4912-A528-C01E18FC0509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4423B226-71DC-4912-A528-C01E18FC0509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4423B226-71DC-4912-A528-C01E18FC0509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DB7C1A-B959-4A06-9134-5FFD5885895D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DB7C1A-B959-4A06-9134-5FFD5885895D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DB7C1A-B959-4A06-9134-5FFD5885895D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DB7C1A-B959-4A06-9134-5FFD5885895D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

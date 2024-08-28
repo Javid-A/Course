@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Course\Access modifiers\bin\Debug\net8.0\Access modifiers.exe
+C:\Users\Lenovo\source\repos\Course\Access modifiers\bin\Debug\net8.0\Access modifiers.deps.json
+C:\Users\Lenovo\source\repos\Course\Access modifiers\bin\Debug\net8.0\Access modifiers.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Course\Access modifiers\bin\Debug\net8.0\Access modifiers.dll
+C:\Users\Lenovo\source\repos\Course\Access modifiers\bin\Debug\net8.0\Access modifiers.pdb
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.sourcelink.json
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.dll
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\refint\Access modifiers.dll
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.pdb
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\Access modifiers.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Course\Access modifiers\obj\Debug\net8.0\ref\Access modifiers.dll
